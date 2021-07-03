@@ -1,4 +1,25 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color:black;font-family:arial;color:white}
 
+// created separate section for title to play with it
+//.title{
+//	padding-left:0px;
+//    text-align:center;
+//}
+.maindiv {
+    background-color:white;
+    color:black;
+    width:350px;   // With 300 from notes, it wraps % to next line
+    padding:20px;
+    padding-left:20px;
+    border-radius:25px;
+	align: center;
+    text-align:left;
+	font-size: 14px;
+}
+footer {
+	align:left;
+    padding-left:0px;
+	padding: 0px;
+}
+h1{color:grey;font-family:verdana;font-size: 20px;text-align:center}
 
